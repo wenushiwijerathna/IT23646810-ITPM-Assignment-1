@@ -29,11 +29,10 @@ Positive Functional Test, Negative Functional Test (conceptual mapping), and UI 
    npx playwright test
 
 ## Project Structure
-tests/                 # All test scripts
-playwright.config.js   # Playwright configuration
-package.json           # Node dependencies
-GitHub_Link.txt        # Text file containing the GitHub repository link
-
+- `tests/` – All test scripts  
+- `playwright.config.js` – Playwright configuration  
+- `package.json` – Node dependencies  
+- `GitHub_Link.txt` – Text file containing the GitHub repository link
 
 ## Conclusion
 This project demonstrates the ability to design test cases and automate selected scenarios using Playwright. The automation scripts validate basic functionality and UI behavior of the system under test.
